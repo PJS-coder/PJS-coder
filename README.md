@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PJS-coder
+- 👋 Hi, I’m Prabhjot Singh
 - 👀 I’m interested in Coding and Cyber Security
 - 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking for a coding partner(she)😅
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am very Funny, once i get attached to you.
 
